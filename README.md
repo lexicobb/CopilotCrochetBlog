@@ -1,2 +1,2 @@
 # CopilotCrochetBlog
-Crochet blog created by Github Copilot
+Crochet blog created by Microsoft Copilot
